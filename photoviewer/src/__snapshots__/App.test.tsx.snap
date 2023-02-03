@@ -1,0 +1,272 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`photoviewer/imageselector SecondaryPhotos renders with the same functionality each time loaded 1`] = `
+<div
+  className="secondary-image-container"
+>
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/600/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/600/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/602/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/602/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/603/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/603/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/604/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/604/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/605/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/605/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/606/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/606/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/607/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/607/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/608/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/608/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/609/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/609/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/610/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/610/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/611/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/611/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/612/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/612/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/613/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/613/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/614/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/614/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/615/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/615/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/616/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/616/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/617/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/617/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/618/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/618/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/619/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/619/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/620/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/620/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/621/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/621/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/622/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/622/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/623/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/623/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/625/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/625/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/626/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/626/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/627/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/627/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/628/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/628/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/629/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/629/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/630/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/630/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/631/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/631/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/633/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/633/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/634/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/634/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/635/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/635/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/637/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/637/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/638/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/638/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/639/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/639/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/640/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/640/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/641/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/641/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/642/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/642/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/643/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/643/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/645/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/645/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/646/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/646/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/648/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/648/1600/900.jpg"
+  />
+  <img
+    className="secondary-image "
+    id="https://picsum.photos/id/649/1600/900.jpg"
+    onClick={[Function]}
+    src="https://picsum.photos/id/649/1600/900.jpg"
+  />
+</div>
+`;

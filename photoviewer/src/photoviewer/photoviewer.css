@@ -1,0 +1,49 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-evenly;
+    padding-inline-start: 0;
+    padding: .5%
+}
+
+.navbar-container {
+    top: 0%;
+    background-color: aliceblue;
+    position: fixed;
+    width: 76%;
+    height: 8%;
+}
+
+.nav-button {
+    cursor: pointer;
+}
+
+.nav-button:hover{
+    background-color: lightgrey;
+}
+
+.secondary-image {
+    width: 10%;
+    height: 10%;
+    margin: .5%;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.secondary-image.container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+}
+
+.selected-image {
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+}
+
+.selected-secondary-image {
+    border: 2px solid yellow;
+
+}
